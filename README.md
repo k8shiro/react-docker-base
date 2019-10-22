@@ -7,7 +7,7 @@ DEMO: https://k8shiro.github.io/react-docker-base/
 # 使い方
 ※  プロジェクト名やユーザー名等は適宜書き換えること
 
-- 初期構築時(このリポジトリをcloneしてきた場合は不要)
+- 初期構築時
 
 ```
 docker-compose run --rm node sh -c "create-react-app my-pj-name"
